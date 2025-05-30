@@ -16,3 +16,5 @@ TAICA 臺灣大專院校人工智慧學程聯盟課程
 - [Homework 06](https://colab.research.google.com/drive/1ChdlI3_2nbAoxJ8zorqeZMj_p0wleYfN)
 - [Homework 07](https://colab.research.google.com/drive/1OfmGs1jJ8o_u8hy-783bElzZCdzUrUXE)
 - [Homework 08](https://colab.research.google.com/drive/1IiitZkKpkF0JI3A4pW5_YUNKAufmu578)
+- [Homework 09](https://colab.research.google.com/drive/1RIez9mUgO_zlz2m7VZ8JPUxDGesbfWSy)
+- [Homework 10](https://colab.research.google.com/drive/1VHd2tjL-FbvjhTq9dgHqCI9cHbOt0un1)
